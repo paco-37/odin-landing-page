@@ -84,6 +84,7 @@ header ul li a {
     padding: 20px;
     text-align: center;
     margin-bottom: 20px;
+    gap: 40px;
 }
 
 .oberemitte h3 {
@@ -93,6 +94,9 @@ header ul li a {
     margin-bottom: 20px;;
 }
 
+.bildmittext {
+    max-width: 200px;
+}
 
 .unteremitte {
     background-color: #E5E7EB;
